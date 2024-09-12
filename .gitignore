@@ -1,0 +1,51 @@
+# Visual Studio
+.vs/
+*.sln.ide
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Aa]ssets/
+[Dd]ebug/
+[Rr]elease/
+*.dbmdl
+*.dbproj.schemaview
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+**/packages/*
+**/package/*
+
+# DotNet Core
+project.lock.json
+project.fragment.lock.json
+*.dotnet/
+*.nuget/
+*.log
+
+# Publish
+publish/
+
+# Secrets
+secrets/
+
+# Other files
+**/*.swp
+**/*.swo
